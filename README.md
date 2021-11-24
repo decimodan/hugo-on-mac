@@ -12,7 +12,7 @@ Este es un simple script que te permite instalar de forma simple la versión de 
 Guarda este archivo como hugo_mac.sh y corre el siguiente comando:
 
 ```bash
-run chmod +x hugo_mac.sh
+chmod +x hugo_mac.sh
 ```
 
 Luego corre el siguiente comando para ejecutarlo
